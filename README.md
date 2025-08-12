@@ -1,6 +1,6 @@
-# Ischooli Cpeg 323 Simple_Cnn Lodepng
+# Cpeg 323 Simple_Cnn 
 
-_From class: **ISCHOOLI**_
+_From class: **CPEG 323**_
 
 ## Overview
 
