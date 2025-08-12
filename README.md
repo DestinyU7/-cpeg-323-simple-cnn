@@ -1,2 +1,21 @@
-#  cpeg-323-simple-cnn
-Large-scale C programming project for CPEG 323 — implements a simple convolutional neural network with PNG image processing via lodepng. Demonstrates low-level performance optimization and image manipulation.
+# Ischooli Cpeg 323 Simple_Cnn Lodepng
+
+_From class: **ISCHOOLI**_
+
+## Overview
+
+## Repo Layout
+```
+ischooli-cpeg-323-simple_cnn-lodepng/
+├─ src/
+├─ docs/
+├─ constraints/   # for FPGA projects
+└─ bitstream/     # for FPGA projects
+```
+
+## How to Run/Verify
+- See docs/* for any PDFs/specs included.
+- If no docs, add a short note describing inputs/outputs and expected behavior.
+
+## What I Learned
+- Summarize key takeaways: design trade-offs, debugging steps, and test methodology.
